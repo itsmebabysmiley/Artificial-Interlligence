@@ -1,11 +1,5 @@
 # Artificial Interlligence
- นี่คือเหงา  
-นี่แหละเหงา  
+นี่คือเหงา นี่แหละเหงา  
 นี่คือความจริงที่ได้เจอ  
-เจ็บปวดทรมาน  
-ลึกลงข้างในใจ  
-โอ้ความเหงา  
-มันช่างหนาว  
-มันช่างยาวนาน  
-และทุกข์ทน  
-รอคอยใครบางคนมาหยุดมัน  
+ 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS4Mk816lv4urPb0R8srToY6sAc6O0XPE_UYw&usqp=CAU" width="200%">
